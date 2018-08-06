@@ -149,10 +149,10 @@ h5 {
   letter-spacing: 1px;
   margin-bottom: 15px;
 }
-/* root font size: 16px 
-percent: (child width / parent width) * 100 */
+/*--root font size: 16px--*/
+/*--percent: (child width / parent width) * 100--*/
 
-/* move into Reset*/
+/*--move into Reset--*/
 html {
   font-size: 62.5%;
 }
